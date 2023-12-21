@@ -1,0 +1,2 @@
+# CodeClauseInternship_AnimalSpeciesDetection
+Allocated Project
